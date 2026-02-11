@@ -1,1 +1,1 @@
-# StarknetBootcampMid
+# Starknet Bootcamp Mid
